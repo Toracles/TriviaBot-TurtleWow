@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: TriviaBot-TurtleWoW
+## Version: 2.0.0-alpha27
+## Notes: Trivia quizzes for Turtle WoW with English/French question banks, random or selected questions, scoring, leaderboard and 5/10/20-question games.
+## Author: CloudNine_Ex
+## X-Credits: Roadblock (Nostalrius), Guri (Trollbane), Psy (Frostwolf)
+## SavedVariables: TRIVIA_QLIST, TRIVIA_CHANNEL
+TriviaBot-TurtleWow.lua
+NormalQuestions.lua
+WoWQuestions.lua
+WoWQuestionsFR.lua
+GeographyQuestions.lua
+TriviaBot-TurtleWow.xml
+
+## X-License: GPL-3.0
